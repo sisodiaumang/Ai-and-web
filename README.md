@@ -117,7 +117,7 @@ vision-language-app/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/umangsisodia/vision-language-scene-geometry.git
+git clone https://github.com/sisodiaumang/vision-language-scene-geometry.git
 cd vision-language-scene-geometry/backend
 
 2️⃣ Create Virtual Environment (Recommended)
